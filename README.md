@@ -2,6 +2,8 @@
 
 A responsive, semantic blog layout built with HTML and CSS. The project presents adventure-themed posts alongside a sidebar with search, categories, and tags.
 
+Site: https://adventure-blog-nine.vercel.app/
+
 ## Features
 
 - Semantic HTML structure using `nav`, `main`, `article`, `aside`, `section`, and `footer`
